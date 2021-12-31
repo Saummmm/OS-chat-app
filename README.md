@@ -1,3 +1,3 @@
-# se3313 Final Project
-Group 28: Saumya Buch, Raj Patel, Sanjit Sharma, Swarit Dholakia <br />
-November 2021
+# OS-chat-app
+
+A multi-client-server transaction app using python and c++
