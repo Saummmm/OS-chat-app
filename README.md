@@ -1,3 +1,3 @@
 # OS-chat-app
 
-A multi-client-server transaction app using python and c++
+A multi-client with a server chat app using python and c++
